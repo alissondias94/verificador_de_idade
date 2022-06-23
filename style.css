@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(70, 70, 255, 0.808);
+    
+}
+header{
+    text-align: center;
+    color: white;
+}
+section{
+    background-color: white;
+    width: 500px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 15px;
+    
+}
+footer{
+    text-align: center;
+    color: white;
+}
